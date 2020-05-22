@@ -19,5 +19,3 @@ def convert_to_int(integer_string_with_commas):
     except ValueError:
         return None
 
-# print(row_to_list("2,081\t314,942\n"))
-# print(row_to_list("\t293,410\n"))
